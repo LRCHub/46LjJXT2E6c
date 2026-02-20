@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Columbia",
+  "base_artist": "Quevedo",
+  "createdAt": "2026-02-20T20:34:40.262707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Columbia",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Columbia_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Columbia - Eden Studios Mix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Columbia_-_Eden_Studios_Mix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Columbia (Eden Studios Mix)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Columbia_(Eden_Studios_Mix)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Columbia - Live from Knebworth '96",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/04_Columbia_-_Live_from_Knebworth_'96_Oasis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Columbia - White Label Demo",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Columbia_-_White_Label_Demo_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Columbia (White Label Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Columbia_(White_Label_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Columbia (White Label Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Columbia_(White_Label_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Columbia (Live at Knebworth, 10 August '96)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/08_Columbia_(Live_at_Knebworth,_10_August_'96)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Columbia (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Columbia_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Evil Prince (Line In Vancouver, British Columbia, 1984)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/10_The_Evil_Prince_(Line_In_Vancouver,_British_Columbia,_1984)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Untitled - Live at Merriweather Post Pavilion, Columbia, MD - September 1998",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/11_Untitled_-_Live_at_Merriweather_Post_Pavilion,_Columbia,_MD_-_September_1998_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreaming In Columbia",
+      "artist": "Overkill",
+      "has_synced": true,
+      "path": "select/12_Dreaming_In_Columbia_Overkill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get It Up (From the Columbia Motion Picture \"Poetic Justice\")",
+      "artist": "TLC",
+      "has_synced": false,
+      "path": "select/13_Get_It_Up_(From_the_Columbia_Motion_Picture__Poetic_Justice_)_TLC.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honey Bee (Columbia Single Version)",
+      "artist": "Gloria Gaynor",
+      "has_synced": false,
+      "path": "select/14_Honey_Bee_(Columbia_Single_Version)_Gloria_Gaynor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Honeybee (Columbia Single Version)",
+      "artist": "Gloria Gaynor",
+      "has_synced": false,
+      "path": "select/15_Honeybee_(Columbia_Single_Version)_Gloria_Gaynor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Columbia",
+      "artist": "Quevedo",
+      "has_synced": false,
+      "path": "select/pl_01_Columbia_Quevedo.txt"
+    }
+  ]
+}
